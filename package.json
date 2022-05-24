@@ -1,0 +1,17 @@
+{
+  "name": "md2html",
+  "version": "1.0.0",
+  "description": "Transpile md to html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "MD",
+    "HTML",
+    "Compiler"
+  ],
+  "author": "Christofer Cousins",
+  "license": "ISC"
+}
