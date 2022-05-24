@@ -6,7 +6,9 @@
     if(args.length === 0)
     {
         // Todo: setup prompt for file/dir
-        console.log("No args");
+        console.log("Please enter the file or directory of markdown files to convert");
+        console.log("(only .md files will be processed).\n");
+        //todo: prompt in a while to make sure it's correct
     }
     const path = args[0];
     if (typeof path !== 'string')
