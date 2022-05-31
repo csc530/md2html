@@ -7,6 +7,8 @@ Oh right how could I forget emojis😁 and forward slash line breaks/
 
 ## A table of information
 
+Please refer to [Mockaroo](https://www.mockaroo.com/) for excellent sample data generation
+
 name|gender|race|address|grade
 -|-|-|-|-
 Gareth Crackel|Male|Thai|6 Fisk Trail|98.65
