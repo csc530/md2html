@@ -36,3 +36,12 @@ Giselbert Ritmeier|Male|Asian|1 Vermont Drive|92.27
 Krissie Flaonier|Female|Micronesian|3 Becker Plaza|41.35
 Baldwin Jansen|Male|Dominican (Dominican Republic)|064 Fieldstone Hill|3.15
 Devinne Hughland|Female|Bangladeshi|7977 Express Park|18.87
+
+## Now for an aside of Black pride
+
+### Images
+
+![Black history month background slide](images/BHM-Background4.jpg)
+![A beautiful aside of my black pride glistenning through ocean tides](images/BHM-Background1.jpg)
+
+### Poem
